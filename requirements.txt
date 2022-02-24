@@ -1,4 +1,4 @@
-mujoco_py==1.50.1.1
+mujoco_py==1.50.1.36
 sklearn
 gym[all]
 
